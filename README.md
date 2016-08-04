@@ -10,7 +10,7 @@ This is just a quick example, I use the [Giphy API](https://github.com/Giphy/Gip
 ```shell
 cd symfony-project
 php bin/console server:run
-firefox "http://127.0.0.1:8000/?q=kitten"
+firefox "http://127.0.0.1:8000/?q=gift"
 ```
 
 Try to change the value of the `q` GET parameter in the url :wink:!
